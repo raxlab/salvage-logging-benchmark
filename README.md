@@ -1,13 +1,14 @@
 # Benchmarks for Salvage Logging under Uncertainty Problem 
 
 This repository constains the supplemental materials for the article:
-## **Improving Salvage Logging Decisions in the Presence of Estimation Errors through Chance Constraints**
 
-by Constanza Lorca, Rodrigo A. Carrasco
+*Improving Salvage Logging Decisions in the Presence of Estimation Errors through Chance Constraints*
+
+by Constanza Lorca, [Rodrigo A. Carrasco](https://www.raxlab.science/members/rodrigo-a.-carrasco/)
 
 Paper information available here: [Link]
 
-## **Version 1.0**
+## Version 1.0
 
 Update 2025-03-12
   - Uploaded datasets containing different numbers of forest stands and teams.
@@ -19,7 +20,8 @@ Update 2025-03-12
     - example_S12.xlsx
     - example_S16.xlsx
     - example_S20.xlsx
-      Each dataset follows the same structure, with the number in the filename indicating the number of forest stands included in that particular dataset.
+      
+Each dataset follows the same structure, with the number in the filename indicating the number of forest stands included in that particular dataset.
 
 ## **Dataset Sheets:**
 | Sheet Name         | Description  |
@@ -30,6 +32,6 @@ Update 2025-03-12
 | Production | Information about each team's production rate in each stand. |
 | Sawmills | Contains details about each samill, including its ID, maximum input capacity, performance, variable cost, and type. |
 | Squads | List of squads, including their type. |
-| Time | List of liabilities for each time. |
+| Time | List of liabilities for each time period. |
 
 

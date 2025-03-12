@@ -1,4 +1,4 @@
-# *** Benchmarks for Salvage Logging under Uncertainty Problem ***
+# Benchmarks for Salvage Logging under Uncertainty Problem 
 
 This repository constains the supplemental materials for the article:
 ## **Improving Salvage Logging Decisions in the Presence of Estimation Errors through Chance Constraints**

@@ -1,4 +1,4 @@
-# Benchmarks for Salvage Logging under Uncertainty Problem 
+# Benchmarks for the Salvage Logging under Uncertainty Problem 
 
 This repository constains the supplemental materials for the article:
 
